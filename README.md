@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Heritage-Hands-React](https://github.com/Divyanshu975/Heritage-Hands.git)
 
-- 🌱 I’m currently learning **Redux to apply ReactJS in large-scale applications**
+- 🌱 I’m currently learning **Redux, MongoDB, DSA, CP**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Web Development, ReactJS, DSA**
 
 - 📫 How to reach me **divyanshubk2003@gmail.com** | **21051905@kiit.ac.in**
 
