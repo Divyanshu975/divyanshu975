@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **divyanshubk2003@gmail.com** | **21051905@kiit.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ssyZYS4YgycXqDg0waxjFwLC-s3i3NMO/view?usp=sharing](https://drive.google.com/file/d/1ssyZYS4YgycXqDg0waxjFwLC-s3i3NMO/view?usp=sharing)
+- 📄 Know about my experiences [see my resume](https://drive.google.com/file/d/1ssyZYS4YgycXqDg0waxjFwLC-s3i3NMO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
